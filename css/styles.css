@@ -107,8 +107,12 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.04em;
 }
 .hero-order-btn:hover,
-.hero-order-btn:focus
-background-color: #404BBF;
+.hero-order-btn:focus {
+    background-color: #404BBF
+
+}
+ 
+ 
 
 /*=====================================*/
 
@@ -204,6 +208,9 @@ font-family: "Roboto", sans-serif;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+}
+   
+ 
 }
 
 .portfolio-list {}
