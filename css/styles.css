@@ -90,7 +90,7 @@ background: #2e2f42;
 font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -103,7 +103,12 @@ font-family: "Roboto", sans-serif;
     color: #fff; 
     background-color: #4d5ae5;;
     cursor: pointer;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
+.hero-order-btn:hover,
+.hero-order-btn:focus
+background-color: #404BBF;
 
 /*=====================================*/
 
@@ -146,7 +151,7 @@ font-family: "Roboto", sans-serif;
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
@@ -156,7 +161,9 @@ font-family: "Roboto", sans-serif;
 
 .team-list {}
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF
+}
 
 .team-image {}
 
@@ -189,14 +196,14 @@ font-family: "Roboto", sans-serif;
 .Portfolio {}
 
 .Portfolio-title {
-    font-family: "Roboto", sans-serif;
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
-        text-align: center;
-        color: #2e2f42;
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
 }
 
 .portfolio-list {}
@@ -232,7 +239,7 @@ font-family: "Roboto", sans-serif;
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5
