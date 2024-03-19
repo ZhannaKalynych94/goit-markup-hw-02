@@ -45,7 +45,7 @@ ul, ol{
         color: #2e2f42;
 }
 
-.header-menu-item{
+.header-menu-link{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -64,12 +64,12 @@ ul, ol{
 }
 
 .header-contact-link{
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 .header-contact-link:hover,
 .header-contact-link:focus {
@@ -196,9 +196,9 @@ font-family: "Roboto", sans-serif;
 
 
 
-.Portfolio {}
+.portfolio {}
 
-.Portfolio-title {
+.portfolio-title {
 font-family: "Roboto", sans-serif;
     font-weight: 600;
     font-size: 40px;
