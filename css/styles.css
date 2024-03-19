@@ -200,7 +200,9 @@ font-family: "Roboto", sans-serif;
 
 .Portfolio-title {
 font-family: "Roboto", sans-serif;
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 40px;
+    color: #2e2f42;
 }
 
 .portfolio-list {}
@@ -222,7 +224,7 @@ font-family: "Roboto", sans-serif;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color:
+        color: #434455;
 }
 
 
